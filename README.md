@@ -29,4 +29,7 @@ O projeto foi construído com as seguintes tecnologias e conceitos de programaç
     *   **Estruturas Condicionais:** Uso de `if`/`else` para validações.
     *   **Estruturas de Repetição:** Uso de `for` e `while` para garantir que os números sorteados sejam únicos.
     *   **Manipulação de Classes:** Adição e remoção de classes CSS para alterar a aparência dos botões (`classList.add`, `classList.remove`).
+
     *   **Geração de Números Aleatórios:** Uso de `Math.random()` e `parseInt()`.
+ 
+Link para acesso : https://sorteador-numeros-gamma-azure.vercel.app/
